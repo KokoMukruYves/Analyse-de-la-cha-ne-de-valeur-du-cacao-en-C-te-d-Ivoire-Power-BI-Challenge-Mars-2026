@@ -17,6 +17,8 @@ Projet réalisé dans le cadre d’un challenge en data analytics, portant sur l
 
 <img width="880" height="496" alt="Screenshot 2026-03-30 165026" src="https://github.com/user-attachments/assets/f6966fab-ffb3-46e7-b44c-167afd128dd9" />
 
+<img width="877" height="492" alt="Screenshot 2026-03-30 165134" src="https://github.com/user-attachments/assets/5db54440-039d-4287-b7b4-b3c55acc50df" />
+
 
 <img width="875" height="495" alt="Screenshot 2026-03-30 165200" src="https://github.com/user-attachments/assets/858e33b2-c829-4842-8862-312f73e7a9d1" />
 
