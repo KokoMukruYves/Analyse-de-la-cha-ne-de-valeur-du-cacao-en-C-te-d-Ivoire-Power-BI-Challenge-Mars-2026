@@ -108,7 +108,7 @@ The analysis followed a structured **ETL pipeline**:
 
 ---
 
-<summary id="Details_Challenge"> 🏆 Details par rapport au Challenge </summary>
+## 🏆 Details par rapport au Challenge
 
 Organisateur : Tresor ADOSSI : Mini Challenge 31 – October 2025 
 
