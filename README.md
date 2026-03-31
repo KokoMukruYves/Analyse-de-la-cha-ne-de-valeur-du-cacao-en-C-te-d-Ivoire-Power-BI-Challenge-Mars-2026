@@ -3,7 +3,14 @@
 ![ezgif com-speed(4)](https://github.com/user-attachments/assets/ed609465-28da-46e1-9227-b6d983806701)
 
 ---
+## Vu général du Projet 
 
+Ce dashboard offre une lecture complète de la chaîne de valeur du cacao en Côte d’Ivoire, depuis la production jusqu’à l’exportation, en mettant en évidence les leviers de performance, les inefficacités et les opportunités de création de valeur.
+
+Le challenge place les participants dans le rôle d'analyste de données relatives à la chaine de valeur du Cacao en Côte d’Ivoire. Les données sont organisée en 9 tables dont 8 dimensions et une de facteur.
+Pour développer des fonctions temporelles intelligences, la table date a été également crée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
+
+## Transformation des données 
 <details>
 <summary id="introduction"> Introduction</summary>
 
@@ -78,9 +85,23 @@ The analysis followed a structured **ETL pipeline**:
 
 
 </details>
-
+Production totale : 290.7K tonnes
+Forte contribution de certaines zones (ex : Lacs)
+Chiffre d’affaires : 41.06T FCFA
+Marge bénéficiaire : 4.9% #Faible
+Coût logistique/tonne : 3.2K FCFA #Trop eleve
+Activité la plus coûteuse : Export (~13K)
+Taux de perte : 1.77%
+Humidité moyenne : 7.5%
+Produits premium génèrent le plus de revenus
+Certification = impact positif sur CA
+Flux dominants :
+Coop → Centre collecte → Transport → Port
+Transport dominant : Camion + Rail
 ---
 <details>
+
+
 
 <summary id="recommendations"> Recommendations</summary>
 
