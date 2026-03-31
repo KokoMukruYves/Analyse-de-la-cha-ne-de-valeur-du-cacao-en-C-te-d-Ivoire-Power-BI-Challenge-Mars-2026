@@ -35,31 +35,29 @@ Le processus ETL a consisté principalement au Nettoyage, transformation et impo
 Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
 
 
-    o	Identifier les doublons et leur suppression ;
+    o	Identification les doublons et leur suppression ;
     
-    o   Identifier des devises incohérentes et leur standardisation ;
+    o   Identification des devises incohérentes et leur standardisation ;
     
-    o	Identifier les valeurs négatives (poids/sacs) et les adresser ;
+    o	Identifications les valeurs négatives (poids/sacs) et harmonisation ;
     
-    o	Mesurer la performance financière (prix, valeur nette, marges) ;
-    
-    o	Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
+    o	Correction des montants incohérents (remplacement de certains séparteurs comme "." par "," ;
 
-    o	Identifier/ajouter de clés étrangères manquantes non existante afin de faciliter la liason entre tables
-        (Ex: Création de la Produit ID dans Dim_Lot;
+    o	Identification /ajout de clés étrangères manquantes non existantes afin de faciliter la liason entre tables
+        (Ex: Création de la Produit ID dans Dim_Lot);
     
-    o	Supprimer les clés étrangères hors plage ;
+    o	Suppression des clés étrangères hors plage (Ex: port ID de 11,6 alors que les identifications sont 1 et 2);
 
-    o	Standardiser le format de dates car au départ le format était mixtes (2002/01/20 ; 20-01-2002, etc.);
+    o	Standardisation du format de dates en évitant de formats était mixtes (2002/01/20 ; 20-01-2002, etc. au sein d'une mm colonne);
 
     o	Normalisation de valeurs textuelles pour palier au problè d'incohérences d’accents/casse (Ex: Nom de région au départ non 
         standardisés) ;
 
-    o	Supprimer les duplicats dans la dimension producteurs pour assurer l'uniquité des données ;
+    o	Suppression des duplicats dans la dimension producteurs pour assurer l'uniquité des données ;
 
-    o	Convertir le format de variable vers leur forme canonique (du format textuel vers le numérique et vis-versa au cas échéant).
+    o	Conversion de format de variable vers leur forme canonique (du format textuel vers le numérique et vis-versa au cas échéant).
 
-    o	Fusionner certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme & Coopération tout en 
+    o	Fusion de certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme & Coopération tout en 
          supprimant les colonnes rédondantes ;
 
     o	Suppression des espaces blancs unitules.	
