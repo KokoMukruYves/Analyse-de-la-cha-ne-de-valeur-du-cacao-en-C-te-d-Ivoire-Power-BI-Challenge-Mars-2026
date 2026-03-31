@@ -70,7 +70,7 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 <img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
 
-----
+
 ##  🧮Mesures clés
 Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit entre autres:
 
