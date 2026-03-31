@@ -155,7 +155,7 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
 ## 🏆 VIII. Details par rapport au Challenge
 
 
-    o	Organisateur : Tresor ADOSSI
+    o	Organisateur : Trésor ADOSSI
 
     o	Thème: Challenge Power-BI Chaine d'Approvisionnement Cacao (Côte d’Ivoire)
 
@@ -168,7 +168,7 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
 
 ## 🔗 Pour tout contact de collaboration ou parténariat
 
-N'hésitez pas à me contacter sur :
+N'hésitez pas de me contacter sur :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
