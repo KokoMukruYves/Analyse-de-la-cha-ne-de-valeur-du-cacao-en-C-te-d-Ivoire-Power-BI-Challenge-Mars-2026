@@ -34,13 +34,26 @@ Le processus ETL a consisté principalement au Nettoyage, transformation et impo
 
 Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
 
-o	Identifier les doublons et leur suppression ;
+
+    o	Identifier les doublons et leur suppression ;
+    
+    o   Identifier des devises incohérentes et leur standardisation ;
+    
+    o	Identifier les valeurs négatives (poids/sacs) et les adresser ;
+    
+    o	Mesurer la performance financière (prix, valeur nette, marges) ;
+    
+    o	Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
+
+
+
+o	
    
-o	Identifier des devises incohérentes et leur standardisation ;
+o	
    
-o	Identifier les valeurs négatives (poids/sacs) et les adresser ;
+o	
    
-o	Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
+o	
    
 o	Identifier/ajouter de clés étrangères manquantes non existante afin de faciliter la liason entre tables
         (Ex: Création de la Produit ID dans Dim_Lot;
