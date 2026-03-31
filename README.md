@@ -98,13 +98,12 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     
     o  Etc.
 
----
+
 ## 📅📊 IV.  Tableau de Bord Interactif développé 
 
 
 ![ezgif com-speed](https://github.com/user-attachments/assets/d0d233d8-c9d1-42b1-b3c9-9f4bfff472e6)
 
----
 
 ## 🔎 Synthèse analytique de la chaîne de valeur du Cocoa en Côte d'Ivoire
 
