@@ -117,7 +117,18 @@ Chiffre d’affaires : 41.06T FCFA
 
 Marge bénéficiaire : 4.9% #Faible
 
-🚚 4. Performance logistique
+## 🚚 4. Performance logistique
+
+
+
+| KPI | Valeurs | Constat/Implications | Recommandation |
+|-----|---------|---------------------|----------------|
+| Coût logistique/tonne | 3.2K FCFA | Trop élevé | Revoir les contrats avec les transporteurs et optimiser les tournées |
+| Coût/kg par transporteur | Variable | Certains transporteurs ont un coût par kg significativement plus élevé | Évaluer la performance des transporteurs et renégocier ou remplacer les moins performants |
+| Activité la plus coûteuse | 🚢 Export (~13K) | L'export génère des coûts disproportionnés | Analyser les postes de coûts spécifiques à l'export pour identifier des leviers de réduction |
+| Mode de transport dominant | Camion + Rail | Dépendance à ces deux modes | Étudier l'optimisation des combinaisons de transport pour réduire les coûts |
+| Optimisation des trajets | Manque d'optimisation | Présence de sous-traitants moins performants | Centraliser la planification des tournées et réduire le recours aux sous-traitants inefficaces |
+
 
 
 Coût logistique/tonne : 3.2K FCFA #Trop eleve
