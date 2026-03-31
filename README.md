@@ -77,8 +77,8 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 ---
 
-### 
-</details>
+### Résultats des analyses 
+
 Production totale : 290.7K tonnes
 Forte contribution de certaines zones (ex : Lacs)
 Chiffre d’affaires : 41.06T FCFA
@@ -93,41 +93,33 @@ Flux dominants :
 Coop → Centre collecte → Transport → Port
 Transport dominant : Camion + Rail
 ---
-<details>
 
-
-
-<summary id="recommendations"> Recommendations</summary>
-
-
-
-</details>
-
+## Recommendations
 ---
 
 ## 🏆 Details par rapport au Challenge
 
-Organisateur : Tresor ADOSSI
 
-Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Cote d'Ivoire)
+    o	Organisateur : Tresor ADOSSI
 
-Mini Challenge du 01 mars au 05 Avril 2026 
+    o	Theme: Challenge Power-BI Chaine d'Approvisionnement Cacao (Côte d’Ivoire)
+
+    o	Durée:   du 01 mars au 05 Avril 2026 
 
 ---
 
 [![Power BI Dashboard](https://img.shields.io/badge/Cliquez_ici_pour_acceder_au_tableau_de_bord_interactif-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYjYxOWFiMTAtMzdiNS00YTA2LTlkODUtYmZkNmIzZGRiYjRjIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
 
-## 🔗 Connect with me
-
-For questions or collaborations, feel free to reach out!
+## 🔗 Pour tout contact de collaboration ou parténariat, n'hésitez pas à me contacter sur  : 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koko-mukuru-yves-98621a14a) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kokomukuruy@gmail.com)
 
 ---
 <p align="center">
-  <i>"Turning data into actionable insights, one project at a time."</i>
+  <i>"Transformation des données brutes en informations pertitentes, pour la meuilleure prise des décisions stratégiques éclairées."</i>
+
 </p>
 
-**© 2026 Koko Mukuru Yves**. All rights reserved
+**© 2026 Koko Mukuru Yves**. Tout droit reservés
