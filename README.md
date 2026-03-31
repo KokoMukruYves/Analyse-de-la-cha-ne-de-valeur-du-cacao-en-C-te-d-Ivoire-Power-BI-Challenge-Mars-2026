@@ -7,19 +7,38 @@
 
 Ce dashboard offre une lecture complète de la chaîne de valeur du cacao en Côte d’Ivoire, depuis la production jusqu’à l’exportation, en mettant en évidence les leviers de performance, les inefficacités et les opportunités de création de valeur.
 
-Le challenge place les participants dans le rôle d'analyste de données relatives à la chaine de valeur du Cacao en Côte d’Ivoire. Les données sont organisée en 9 tables dont 8 dimensions et une de facteur.
+Le challenge place les participants dans le rôle d'analyste de données relatives à la chaine de valeur du Cacao en Côte d’Ivoire. Les données sont organisée en 10 tables dont 9 dimensions et une de faits.
+
 Pour développer des fonctions temporelles intelligences, la table date a été également crée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
 
-## Transformation des données 
-<details>
-<summary id="introduction"> Introduction</summary>
+Le développement de ce projet était animé par le souci d' (d):
 
-🎯 Objectifs
-* Analyser la production de cacao par produit, ferme et coopérative ;
-* Suivre les indicateurs de qualité (humidité, pertes)
-* Évaluer la performance logistique (transport et stockage)
-* Mesurer la performance financière (prix, valeur nette, marges)
-* Visualiser les flux d’exportation via les ports
+-  Analyser la production de cacao par produit, ferme et coopérative ;
+- Suivre les indicateurs de qualité (humidité, pertes) ;
+- Évaluer la performance logistique (transport et stockage) ;
+- Mesurer la performance financière (prix, valeur nette, marges) ;
+- Visualiser les flux d’exportation via les ports; 
+
+
+## Processus ETL
+
+Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données (OLAP).
+
+Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
+
+- Identifier les doublons et leur suppression.
+- Identifier des devises incohérentes et leur standardisation ;
+- Identifier les valeurs négatives (poids/sacs) et les adresser ;
+- Corriger les montants incohérents (supprimer le "." et le remplacer par la ",";
+- Identifier/ajouter de clés étrangères manquantes non existante afin de faciliter la liason entre tables (Ex: Création de la Produit ID dans 
+   Dim_Lot;
+- Supprimer les clés étrangères hors plage ;
+- Standardiser le format de dates car au départ le format était mixtes (2002/01/20 ; 20-01-2002, etc.).
+- Normalisation de valeurs textuelles pour palier au problè d'incohérences d’accents/casse (Ex: Nom de région au départ non standardisés) ;
+- Supprimer les duplicats dans la dimension producteurs pour assurer l'uniquité des données.
+- Convertir le format de variable vers leur forme canonique (du format textuel vers le numérique et vis-versa au cas échéant).
+- Fusionner certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme & Coopération tout en supprimant les colonnes rédondantes ;
+- Suppression des espaces blancs unitules.
 
 #Modelisation en Etoile
 
