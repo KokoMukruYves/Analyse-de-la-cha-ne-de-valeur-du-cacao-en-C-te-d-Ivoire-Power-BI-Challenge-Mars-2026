@@ -14,9 +14,9 @@ Le développement de ce projet était animé par le souci d' (d):
 
     o	Analyser la production de cacao par produit, ferme et coopérative ;
     
-    o Suivre les indicateurs de qualité (humidité, pertes) ;
+    o   Suivre les indicateurs de qualité (humidité, pertes) ;
     
-    o	 Évaluer la performance logistique (transport et stockage) ;
+    o	Évaluer la performance logistique (transport et stockage) ;
     
     o	Mesurer la performance financière (prix, valeur nette, marges) ;
     
