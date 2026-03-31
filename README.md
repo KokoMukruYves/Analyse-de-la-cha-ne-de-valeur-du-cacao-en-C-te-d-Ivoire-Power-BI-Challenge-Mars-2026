@@ -28,7 +28,7 @@ Les données d'analyse sont organisées en 10 tables dont 9 dimensions et une de
 Pour développer des fonctions temporelles intelligences, la table date a été également créée ainsi que 3 autres tables permettant de capter l'impact de la variation de certains paramétres sur les indicateurs de performance de la chaine de valeur du Cacao. Tel est le cas de table sur la variation du prix, du taux de change et de la surface cultivée.
 
 
-## II. 🧹Processus ETL
+## 🧹II. Processus ETL
 
 Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données (OLAP).
 
@@ -71,7 +71,7 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 <img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
 
 
-##  🧮Mesures clés
+##  🧮 III. Mesures clés
 Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit entre autres:
    
     o  Volume Total de Production ;
@@ -99,7 +99,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     o  Etc.
 
 ---
-## 📅📊 Tableau de Bord Interactif développé 
+## 📅📊 IV.  Tableau de Bord Interactif développé 
 
 
 ![ezgif com-speed](https://github.com/user-attachments/assets/d0d233d8-c9d1-42b1-b3c9-9f4bfff472e6)
@@ -128,7 +128,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 | | Impact taux de change | Fluctuation impacte la valeur nette export | Intégrer une gestion active du risque de change |
 | | Surface cultivée vs production | Corrélation positive : +0,29 variation surface → hausse production | Encourager l'expansion contrôlée avec des pratiques durables |
 ---
-# 🛠 Outils et Compétences demontrées
+# 🛠 V. Outils et Compétences demontrées
 
     o	Power BI ; 	
     
@@ -151,7 +151,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     o	Analyse Géographique et de la Chaine Logistique.
     
 ---
-## 🎯 Conclusion
+## 🎯 VI. Conclusion
 
 Ce projet démontre comment un nettoyage, une transformation et une modélisation structurés des données permettent de convertir des jeux de données bruts en insights analytiques pertinents.
 
@@ -160,7 +160,7 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
 ---
 
 
-## 🏆 Details par rapport au Challenge
+## 🏆 VII. Details par rapport au Challenge
 
 
     o	Organisateur : Tresor ADOSSI
