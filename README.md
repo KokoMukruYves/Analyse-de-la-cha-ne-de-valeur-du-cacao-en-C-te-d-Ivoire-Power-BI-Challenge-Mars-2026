@@ -151,8 +151,6 @@ Ce projet démontre comment un nettoyage, une transformation et une modélisatio
 
 Le tableau de bord offre une vue claire et structurée de la chaîne d’approvisionnement du cacao ainsi que de son évolution selon les événements, les modes de transport, les périodes et les régions géographiques en Côte d’Ivoire.
 
----
-
 
 ## 🏆 VIII. Details par rapport au Challenge
 
