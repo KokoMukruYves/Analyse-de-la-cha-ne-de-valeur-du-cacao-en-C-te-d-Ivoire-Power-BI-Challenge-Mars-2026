@@ -50,7 +50,7 @@ Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les ac
 
     o	Standardisation du format de dates en évitant de formats était mixtes (2002/01/20 ; 20-01-2002, etc. au sein d'une mm colonne);
 
-    o	Normalisation de valeurs textuelles pour palier au problè d'incohérences d’accents/casse (Ex: Nom de région au départ non 
+    o	Normalisation de valeurs textuelles pour palier au problème d'incohérences d’accents/casse (Ex: Nom de région au départ non 
         standardisés) ;
 
     o	Suppression des duplicats dans la dimension producteurs pour assurer l'uniquité des données ;
@@ -60,9 +60,11 @@ Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les ac
     o	Fusion de certaines dimensions en une dimension unique: tel est le cas de la dimension Lot, Produit, Ferme & Coopération tout en 
          supprimant les colonnes rédondantes ;
 
-    o	Suppression des espaces blancs unitules.	
+    o	Suppression des espaces blancs unitules.
 
-#Modelisation en Etoile
+Après s'etre rassuré que les données sont déjà  de qualité et donc préparées suffisament pour l'analyse, la modelisation a été un pond crucial afin d'établir des relations et rendre l'extraction de l'information pertinente possible.
+
+ Modelisation en Etoile
 
 <img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
 
