@@ -68,46 +68,8 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 
 <img width="699" height="498" alt="image" src="https://github.com/user-attachments/assets/b4682f96-eaf3-4873-85ef-5f43812bf9aa" />
 
-
-</details>
-
 ---
 
-<details>
-<summary id="etl-process"> ETL Process</summary>
-
-
-The analysis followed a structured **ETL pipeline**:
-
-
-### 1. Data Extraction
-
-
-  
-
-### 2. Data Cleaning
-
-* Handled missing values 
-* Filled non-critical missing values (`Payment_Type` & 'Location') with default values (e.g. 'Unknown').
-* Corrected inconsistent values (e.g., negative ages, impossible timestamps in `Time_In`/`Time_Out`).
-* Standardized categorical values (`Gender`: Male/Female, `Payment_Type`: Private/Insurance/Other).
-
-
-### 3. Data Transformation
-
-* Created additional calculated columns: Age_Group, Cohort_Month, First_Visit_Date, Hospital_Rush.
-
-* Create measures and KPIs: Average Age, Average Days Between Visits, Average Visits per Day, New Patient Acquisition Rate, Total Patients, Retention Rate & Peak Hours/Hospital Rush.
-
-* Built supporting tables for temporal and demographic analysis (Daily Visits, Monthly Cohorts, Payment Trends).
-
-
-</details>
-
----
-<details>
-
-<summary id="dashboard-overview">Dashboard Overview</summary>
 
 ![ezgif com-added-text](https://github.com/user-attachments/assets/79333dc0-a9fd-40d6-b65d-81856ae2abf5)
 
