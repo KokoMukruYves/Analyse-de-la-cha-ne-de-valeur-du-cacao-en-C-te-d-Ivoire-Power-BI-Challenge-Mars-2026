@@ -74,29 +74,29 @@ Après s'etre rassuré que les données sont déjà  de qualité et donc prépar
 ##  🧮Mesures clés
 Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit entre autres:
 
-o  Volume Total de Production ;
+ o  Volume Total de Production ;
 
-o  Marge Bénéficiaire totale ;
+ o  Marge Bénéficiaire totale ;
 
-o  Cout Logistique (Transport et Stockage) ;
+ o  Cout Logistique (Transport et Stockage) ;
 
-o  Age Moyen de la ferme et de la Coopérative ;
+ o  Age Moyen de la ferme et de la Coopérative ;
 
-o  Volume Export ;   
+ o  Volume Export ;   
 
-o  Humidité Moyenne ;
+ o  Humidité Moyenne ;
 
-o  Taux de Perte ;
+ o  Taux de Perte ;
 
-o  Target Humidité, Rendement ;
+ o  Target Humidité, Rendement ;
 
-o  Total Mouvements ;
+ o  Total Mouvements ;
 
-o  Total Sac ; 
+ o  Total Sac ; 
 
-o  YOY ;
+ o  YOY ;
 
-o  Etc.
+ o  Etc.
 
 ---
 ## 📅📊 Tableau de Bord Interactif développé 
