@@ -111,7 +111,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 
 ## 🔎 V. Synthèse analytiques de la chaîne de valeur du Cocoa en Côte d'Ivoire
 
-| Section | KPI / Thème | Constat / Insight | Recommandation stratégique |
+| Section | KPI / Thème | Constat / Insight | Recommandations stratégiques |
 |---------|-------------|-------------------|---------------------------|
 | **📈 Performance commerciale** | Chiffre d'affaires | Évolution positive mais marquée par une saisonnalité forte (campagnes 2023/24 → 2025/26 : 10,2M → 14,0M tonnes export) | Renforcer la planification des stocks pour lisser les pics de campagne et maximiser les opportunités de prix |
 | | Marge bénéficiaire nette | 4,9% (faible) malgré un CA élevé, avec une marge en légère hausse pour les produits premium | Poursuivre la montée en gamme et la certification pour améliorer la rentabilité |
