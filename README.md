@@ -22,6 +22,8 @@ Le développement de ce projet était animé par le souci d' (d):
     
     o	Visualiser les flux d’exportation via les ports; 
 
+    o   Evaluer la tendance de certains indicateurs clés dans le temps et en faire une projections futures.
+
 
 Les données d'analyse sont organisées en 10 tables dont 9 dimensions et une de faits (Fact_Mouvements). Il s'agit entre autres des dimensions: Produits, Lot, Coopérative, Ferme, Evenements, Sites, Transporteurs, Ports et Devises. 
 
