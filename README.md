@@ -32,7 +32,7 @@ Pour développer des fonctions temporelles intelligentes, la Table Date a été 
 
 ## 🧹II. Processus ETL
 
-Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données (OLAP).
+Le processus ETL a consisté principalement au Nettoyage, transformation et importation des données.
 
 Le nettoyage en soit, a était l'étape crucial où nous avions effectuer les activités suivantes :
 
