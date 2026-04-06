@@ -90,7 +90,7 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
     
     o  Humidité Moyenne ;
     
-    o  Taux de Perte ;
+    o  Taux de Perte Moyen ;
     
     o  Target Humidité, Rendement ;
     
@@ -107,6 +107,8 @@ Pour performer les analyses, plusieurs mesures ont été calculées, il s'agit e
 
 
 ![ezgif com-speed](https://github.com/user-attachments/assets/d0d233d8-c9d1-42b1-b3c9-9f4bfff472e6)
+
+[![Power BI Dashboard](https://img.shields.io/badge/Cliquez_ici_pour_acceder_au_tableau_de_bord_interactif-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYjYxOWFiMTAtMzdiNS00YTA2LTlkODUtYmZkNmIzZGRiYjRjIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
 
 ## 🔎 V. Synthèse analytiques de la chaîne de valeur du Cocoa en Côte d'Ivoire
@@ -165,8 +167,6 @@ Le tableau de bord offre une vue claire et structurée de la chaîne d’approvi
 
     o	Durée:   du 01 mars au 05 Avril 2026 
     
-
-[![Power BI Dashboard](https://img.shields.io/badge/Cliquez_ici_pour_acceder_au_tableau_de_bord_interactif-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiYjYxOWFiMTAtMzdiNS00YTA2LTlkODUtYmZkNmIzZGRiYjRjIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
 
 ## 🔗 Pour tout contact de collaboration ou parténariat
