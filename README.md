@@ -10,7 +10,7 @@ Ce dashboard offre une lecture complète de la chaîne de valeur du cacao en Cô
 Le challenge place les participants dans le rôle d'analyste de données relatives à la chaine de valeur du Cacao en Côte d’Ivoire.
 
 
-Le développement de ce projet était animé par le souci d' (d):
+Le développement de ce projet était animé par le souci de (d'):
 
     o	Analyser la production de cacao par produit, ferme et coopérative ;
     
